@@ -1,7 +1,7 @@
 /* General */
 
 .container {
-  width: 200px;
+  width: 1000px;
   vertical-align: center;
 }
 /* Texture For Announcements */
@@ -66,7 +66,7 @@
 }
 
 .menu a {
-  color: #899;
+  color: #898989;
   
 }
 
@@ -124,7 +124,7 @@
   color: #b7b7b7;
   
   font-family: 'Oswald', sans-serif;
-  font-weight: 60000;
+  font-weight: 400;
   
   font-size: 40px;
   margin: 5px;
